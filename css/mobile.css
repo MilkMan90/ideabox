@@ -4,9 +4,20 @@
     }
     input {
         width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    textarea{
+        width:95%;
+        margin-left: auto;
+        margin-right: auto;
     }
     form {
         padding: 10px;
+    }
+    #sort-by-quality{
+      height: 25px;
+      font-size: 15px;
     }
     #idea-body-input {
         height: 5em;

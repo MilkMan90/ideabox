@@ -25,6 +25,7 @@ input, textarea {
     width: 400px;
     height: 25px;
     margin: 10px auto;
+    resize: none;
 }
 #submit-button {
     background-color: #00A79D;
@@ -44,7 +45,7 @@ input, textarea {
 #sort-by-quality{
   background-color: #00A79D;
   font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  font-size: 15px;
   border: none;
   color: #ffffff;
   outline: none;
